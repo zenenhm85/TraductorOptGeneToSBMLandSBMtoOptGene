@@ -1,0 +1,26 @@
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\bin\Debug\Traductor.exe
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\bin\Debug\Traductor.pdb
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.Properties.Resources.resources
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.exe
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.pdb
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\bin\Debug\GlpkSharp.dll
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\bin\Debug\Hydra.pdb
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.Model.resources
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.Plantilla.resources
+E:\ZENEN\TESIS\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.Principal.resources
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.exe
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.pdb
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\bin\Debug\Traductor.exe
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\bin\Debug\Traductor.pdb
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\bin\Debug\GlpkSharp.dll
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\bin\Debug\Hydra.pdb
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.Principal.resources
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.Model.resources
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.Plantilla.resources
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\obj\x86\Debug\Traductor.Properties.Resources.resources
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TESIS Zenen\Herramientas\Traductor\Traductor\obj\x86\Debug\GenerateResource.write.1.tlog

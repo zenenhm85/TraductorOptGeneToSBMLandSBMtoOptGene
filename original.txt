@@ -1,0 +1,36 @@
+-REACTIONS
+Glycolysis :  Glucose + 2 ADP + 2 NAD+ -> 2 Pyruvate + 2 ATP + 2 NADH
+PDH : 2 Pyruvate + 2 NAD+ -> 2 Acetyl-CoA + CO2 + 2 NADH
+PFL : Pyruvate -> Acetyl-CoA + Formate
+ADHE : Acetyl-CoA + NADH -> Acetaldehyde + NAD+
+ADHA : Acetaldehyde + NADH -> Ethanol + NAD+
+PTA : Acetyl-CoA -> Acetyl-P
+ACKA : Acetyl-P + ADP -> Acetate + ATP
+LDH : Pyruvate + NADH -> Lactate + NAD+
+ALS : 2 Pyruvate -> 2-Acetolactate + CO2
+Chemical_oxidation : 2-Acetolactate + O2 -> Diacetyl + CO2
+ALDB : 2-Acetolactate -> Acetoin + CO2
+BUTA : Diacetyl + NADH -> Acetoin + NAD+
+BUTB : Acetoin + NADH -> 2,3-Butanediol + NAD+
+%
+Test_reaction1: NADH -> NAD+
+Test_reaction2: ATP-> ADP+
+%
+-CONSTRAINTS
+Glycolysis[1,1]
+-EXTERNAL METABOLITES
+Glucose
+ATP
+ADP
+Ethanol
+2,3-Butanediol
+Acetate
+CO2
+Formate
+Lactate
+O2
+-OBJ
+ALDB 1 1
+-DESIGNOBJ
+ALDB 1 1
+#ADHA
